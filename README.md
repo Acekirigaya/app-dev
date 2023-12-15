@@ -1,2 +1,28 @@
-# app-dev
-My first repository
+# **_One Piece_**
+![thumb-1920-859893](https://github.com/Acekirigaya/app-dev/assets/153914388/32092fbd-7894-4a46-96bc-49be2a8fbbba)
+## **Synopsis**
+**ONE PIECE** is a legendary high-seas quest unlike any other. Luffy is a young adventurer who has longed for a life of freedom ever since he can remember. He sets off from his small village on a perilous journey to find the legendary fabled treasure, ONE PIECE, to become King of the Pirates!
+
+### **Main Characters**
+- **Monkey D. Luffy**: Monkey D. Luffy is the protagonist of "One Piece" and the captain of the Straw Hat Pirates. He ate the Gum-Gum Fruit (Gomu Gomu no Mi), gaining the ability to stretch his body like rubber but losing the ability to swim. Luffy dreams of becoming the Pirate King by finding the legendary One Piece treasure, and he possesses a fearless and optimistic attitude. His signature straw hat is a symbol of his determination and pirate spirit.
+- **Zoro**: Zoro, also known as "Pirate Hunter" Zoro, is the swordsman of the Straw Hat Pirates. He aims to become the world's greatest swordsman and wields three swords, utilizing a unique three-sword style called Santoryu. Zoro is fiercely loyal, strong-willed, and possesses an unwavering dedication to his captain, Luffy. He has a strict code of honor and is known for his incredible strength and determination.
+- **Sanji**: Sanji is the chef of the Straw Hat Pirates, known for his exceptional cooking skills and his fighting style, which revolves around kicking techniques. He's also referred to as "Black Leg" Sanji. His dream is to find the All Blue, a legendary sea containing fish from all over the world. Sanji is a chivalrous gentleman with a weakness for beautiful women, but he remains an invaluable member of the crew with his combat abilities and culinary expertise.
+- **Jimbei**: Jinbei, also known as the "Knight of the Sea," is a fish-man and a skilled helmsman. He formally joined the Straw Hat Pirates later in the series. Jinbei possesses immense strength, incredible Fish-Man Karate abilities, and a calm and wise demeanor. He values loyalty and honor, having a strong sense of responsibility as a former Warlord of the Sea and a protector of Fish-Man Island.
+- **Brook**: Brook is the musician of the Straw Hat Pirates and a living skeleton due to consuming the Revive-Revive Fruit (Yomi Yomi no Mi). He was once a human and a famous musician before his death and subsequent resurrection. Brook is known for his gentlemanly behavior, sense of humor, and his ability to wield a sword. He dreams of reuniting with a certain whale and aims to make people around the world happy through his music.
+- **Franky**: Franky, also known as "Cyborg" Franky, is the shipwright of the Straw Hat Pirates. He's a skilled shipbuilder and a cyborg due to modifying his body with various mechanical enhancements. Franky is passionate and emotional, often showing off his flamboyant personality. He's capable of incredible feats of strength and is responsible for constructing the crew's ship, the Thousand Sunny.
+- **Usopp**: Usopp is the sharpshooter and the crew's sniper, known for his creative and exaggerated storytelling. He comes from a family of talented snipers and is skilled in using slingshots and various gadgets. Usopp is imaginative but tends to be timid, although he overcomes his fears to protect his friends. His dream is to become a brave warrior of the sea like his father, Yasopp.
+- **Nico Robin**: Nico Robin is the archaeologist of the Straw Hat Pirates. She possesses the ability of the Flower-Flower Fruit (Hana Hana no Mi), allowing her to sprout multiple body parts anywhere. Robin has a tragic past but remains calm, intelligent, and enigmatic. Her dream is to uncover the true history of the world known as the Void Century, and she values knowledge and research above all else.
+- **Nami**: Nami is the navigator of the Straw Hat Pirates and has an exceptional talent for mapmaking and navigation. She has a tragic backstory involving her village and a strong desire to create a complete map of the world. Nami is resourceful, clever, and initially joined the crew as a thief before her loyalty to her friends prevailed. She has a knack for manipulating weather using her Clima-Tact staff.
+- **Tony Tony Chopper**: Tony Tony Chopper is the doctor of the Straw Hat Pirates and a reindeer that ate the Human-Human Fruit (Hito Hito no Mi), granting him human-like abilities. Chopper is kind-hearted, innocent, and possesses a childlike wonder. He's a skilled physician with knowledge of various medicines and medical treatments. Chopper dreams of becoming a doctor capable of curing any illness.
+
+#### **Why I Love It**
+- Compelling Storytelling: "One Piece" has a rich and intricate storyline filled with adventure, mystery, and suspense. The quest for the ultimate treasure, the One Piece, leads to various fascinating arcs, each with its own unique challenges, conflicts, and character development.
+
+- Diverse and Memorable Characters: The series boasts a wide array of characters, each with distinct personalities, backstories, and motivations. Fans connect deeply with the diverse crew of the Straw Hat Pirates, as well as the multitude of allies and adversaries encountered throughout their journey.
+
+- Themes of Friendship and Loyalty: Central to the series is the theme of camaraderie and unwavering loyalty among friends. The bonds formed between the characters, their support for one another, and their willingness to sacrifice for the greater good resonate strongly with audiences.
+
+##### **Quotes**
+> “No matter how hard or impossible it is, never lose sight of your goal.” – **Monkey D. Luffy**
+
+
